@@ -58,3 +58,4 @@ target/
 task1/.ipynb_checkpoints/
 task1/cs231n/im2col_cython.c
 task1/cs231n/datasets/cifar-10-batches-py/
+misc/
